@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.input{
+  background-color: aqua;
+  margin-left: 550px;
+}
+body{
+  background-color:red;
+}
+.butt{
+  background-color: black;
+  color: white;
+}
+.h1{
+  margin-left: 600px;
+}
+.h2{
+  margin-left: 580px;
+}
